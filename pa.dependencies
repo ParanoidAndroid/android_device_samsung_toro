@@ -5,8 +5,9 @@
    "branch": "jellybean"
  },
  {
-   "repository": "android_device_sample",
-   "target_path": "device/sample"
+   "repository": "CyanogenMod/android_device_sample",
+   "target_path": "device/sample",
+   "branch": "cm-10.2"
  }
 
 ]
